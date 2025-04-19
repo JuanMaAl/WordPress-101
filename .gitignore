@@ -1,0 +1,12 @@
+# Ignorar archivos del núcleo de WordPress (opcional, según el enfoque)
+/wp-admin/
+/wp-includes/
+/wp-config.php
+/wp-content/uploads/
+/wp-content/upgrade/
+/node_modules/
+/vendor/
+*.log
+.htaccess
+.DS_Store
+Thumbs.db
